@@ -1,3 +1,5 @@
+![jsonchicas](https://github.com/JazzDesign/JazzDesign/blob/master/jsonpage.jpg)
+
 # Hi there 👋
 I'm Json Chicas. I like to use JS(ES6), Reactjs, SASS on my daily basis, just to name the most important bits. I'm a front end developer from Guatemala 🇬🇹.
 I love minimalistic design and programming in any shape and form. I strive to learn something new every day and the implement that into either a freelance or a private project. I’m currently learning French 🇫🇷
