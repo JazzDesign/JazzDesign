@@ -2,10 +2,15 @@
 
 # Hi there 👋
 I'm Json Chicas. I like to use JS(ES6), Reactjs, SASS on my daily basis, just to name the most important bits. I'm a front end developer from Guatemala 🇬🇹.
-I love minimalistic design and programming in any shape and form. I strive to learn something new every day and the implement that into either a freelance or a private project. I’m currently learning French 🇫🇷
+I love minimalistic design and programming in any shape and form. I strive to learn something new every day and the implement that into either a freelance or a private project.
 
+<br />
+🌱 I’m currently learning French
+<br />
 💬 Ask me about Code, food, movies
+<br />
 📫 How to reach me: @jsonchicas
+<br />
 
 <!--
 **JazzDesign/JazzDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
